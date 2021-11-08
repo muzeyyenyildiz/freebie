@@ -501,7 +501,7 @@
         flex-direction: column;
         justify-content: flex-start;
         align-items: flex-start;
-        margin: 0.5rem 4rem 0.5rem 4rem;
+        margin: 0.5rem;
     }
     .apps_container_head h1 {
         margin: 0;
@@ -520,6 +520,7 @@
         width: 60px;
         height: 60px;
         border-radius: 50%;
+        margin-right: 0.5rem;
     }
 
     .apps_image_container img {
@@ -529,6 +530,7 @@
     .apps_content__all {
         flex-direction: column;
         align-items: flex-start;
+        margin-left: 1rem;
     }
 
     .apps_header__all {

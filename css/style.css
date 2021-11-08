@@ -647,7 +647,7 @@ body {
 }
 
 .apps_content_all {
-    width: 80%;
+    width: 70%;
 }
 
 .apps_header__all {
@@ -660,6 +660,21 @@ body {
     font-size: 16px;
     color: #616368;
 }
+.apps_image_container_web {
+    width: 88px;
+    height: 88px;
+    background: #ffecef;
+    border: 1px solid #ffecef;
+    border-radius: 88px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.apps_image_container_web img {
+    width: 58px;
+}
+
 .apps_image_container_trophy {
     width: 88px;
     height: 88px;
